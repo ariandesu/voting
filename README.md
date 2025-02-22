@@ -88,7 +88,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **Streamlit** for providing an excellent framework for building interactive web apps.
 - **Wikipedia** for detailed explanations of various voting systems.
 
-Also you can checokout the voting app from this link 
+Also you can checokout the voting app from this link https://votingio.streamlit.app/
 ---
 
 Enjoy exploring the world of voting systems with this app! 🎉
